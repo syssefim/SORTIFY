@@ -1,4 +1,4 @@
-# SORTIFY
+# SORTIFY♻️
 ## 🚀 Key Features
 
 * 📸 **Smart Scanning:** Instant image recognition classifies waste as Recyclable, Compostable, or Trash.
