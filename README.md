@@ -1,4 +1,6 @@
 # SORTIFY♻️
+An AI-powered sustainability assistant that gamifies recycling. Snap a photo to instantly categorize waste (Recycle, Compost, or Trash), earn points, and compete on global leaderboards.
+
 ## 🚀 Key Features
 
 * 📸 **Smart Scanning:** Instant image recognition classifies waste as Recyclable, Compostable, or Trash.
